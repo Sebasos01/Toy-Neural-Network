@@ -1,0 +1,6 @@
+Input layer size: 2
+Hidden layer 1 size: 2
+Output layer size: 3
+Weights: 10
+Biases: 5
+Total parameters: 15

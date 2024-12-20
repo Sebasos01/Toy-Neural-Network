@@ -1,0 +1,4 @@
+widht;height;label
+1;2;flower1
+3;2;flower2
+3;6;flower3

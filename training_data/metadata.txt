@@ -1,0 +1,2 @@
+input_size;output_size;input_labels;output_labels
+2;3;widht,height;flower1,flower2,flower3
